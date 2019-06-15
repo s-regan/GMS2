@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0262c479-1a40-4627-b9bb-130b05dd3eb0",
+            "Value": {
+                "id": "7f84a565-3137-4e14-b2ca-b54cc95dcb59",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c6efae3-9a63-46ed-90e7-a864d46cbffb",
             "Value": {
                 "id": "f244577b-6226-4fe3-8418-8dd42d57d86c",
